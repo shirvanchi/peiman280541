@@ -9,4 +9,5 @@ sudo touch $name
 if (($choice==2))
 then
 ls -lah
+echo "hello"
 fi
